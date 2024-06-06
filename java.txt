@@ -4,3 +4,5 @@ added from local
 added from remote
 
 local:int a:10;
+int b=10;
+return a+b;

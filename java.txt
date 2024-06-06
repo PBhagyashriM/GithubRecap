@@ -1,3 +1,6 @@
 java is oop's lang
 
 added from local
+added from remote
+
+local:int a:10;

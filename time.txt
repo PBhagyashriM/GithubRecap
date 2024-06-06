@@ -8,3 +8,4 @@ github
 central / main /remote server is one of is github
 
 git pull origin master
+remote to local

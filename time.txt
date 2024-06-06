@@ -6,3 +6,5 @@ always good day
 
 github
 central / main /remote server is one of is github
+
+git pull origin master
